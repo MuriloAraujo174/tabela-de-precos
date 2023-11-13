@@ -156,6 +156,7 @@ ul li {
 
 li::before {
     content: url(../assets/icon-verificado.svg);
+    padding-right: 10px;
 }
 
 li::after {
